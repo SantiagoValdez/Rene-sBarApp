@@ -1,0 +1,10 @@
+Sistema para una pequeno local de expendio de bebidas y alimentos
+Compra, Venta, Control de Stock, Deudas, Informes...etc
+
+==============================================================
+Tecnologias:
++Python
++GTK
++Sqlite
+
+==============================================================
