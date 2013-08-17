@@ -16,3 +16,5 @@ for t in (('aa101', 'PRODUCTO 101', 445.00),
 
 conexion.commit()
 tabla.close()
+
+print "Hola negro"
